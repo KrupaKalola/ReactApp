@@ -1,0 +1,74 @@
+
+/* --------Content-------- */
+
+.page-wrapper {
+    padding: 0px 15px 0 15px;
+    margin-top: -45px;
+}
+.user-card{
+    text-align: justify;
+}
+.grow{
+    animation: bounce-in-right 3s ease;
+}
+.card{
+    box-shadow: 1px 0px 20px rgba(0, 0, 0, 0.08) !important;
+    border: 1px solid #ededed;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    text-align: justify;
+}
+.sidebar-wrapper{
+    box-shadow: 1px 0px 20px rgba(0, 0, 0, 0.08) !important;
+
+}
+.sidebar-info{
+    border : 1px solid #ededed;
+    border-radius: 4px;
+    text-align: center;
+    margin: 0px;
+}
+.sidebar-info a{
+    color: #212529;
+    text-decoration: none;
+}
+.sidebar-info col p{
+    margin-bottom: 0 !important;
+}
+/* .sidebar-wrapper .sidebar-info .border-right-bottom{
+    border-right: 1px solid #ededed;
+    border-bottom: 1px solid #ededed;
+}
+.sidebar-wrapper .sidebar-info .border-bottom{
+    border-bottom: 1px solid #ededed;
+} */
+
+.bg-primary{
+    background-color: #3E007C !important;
+}
+.card-icon{
+    width: 60px;
+    height: 60px;
+    display: flex;
+    vertical-align: middle;
+    text-align: center;
+    align-items: center;
+    border-radius: 10px;
+}
+.card-right{
+    margin-left: 8px;
+}
+.card-right h6{
+    color:  #333 !important;
+}
+.card-header{
+    background-color: transparent;
+}
+.card-title{
+    margin-bottom: 0px;
+    color: #333;
+}
+
+.team-lead-img{
+    width: 50px;
+}

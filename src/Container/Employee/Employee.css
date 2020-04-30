@@ -1,0 +1,43 @@
+.top-bar .search{
+    border: none;
+    border-bottom: 1px solid;
+    width: 300px;
+    position: relative;
+}
+.search-icon{
+    position: absolute;
+    right: 30px;
+    bottom: 30px;
+}
+.employee-directory{
+    margin-top: 30px;
+}
+.employee-detail{
+    border: 1px solid #ededed;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    text-align: justify;
+}
+.employee-detail img{
+    width : 70px;
+    height: 70px;
+    line-height: 70px;
+}
+.employee-detail:hover{
+    box-shadow: 1px 0px 20px rgba(0, 0, 0, 0.08) !important;
+}
+.employee-detail:nth-child(even) .text-center>p:first-child{
+    background-color: blue;
+}
+.initials{
+    background-color: #ededed;
+    color:  #212529;
+    width: 70px;
+    height: 70px;
+    margin: 0 auto;
+    line-height: 70px;
+    font-size: 20px;
+}
+.rounded-circle {
+    border-radius: 50%!important;
+}

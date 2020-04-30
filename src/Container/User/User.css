@@ -1,0 +1,90 @@
+html, body{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+#root{
+    height: 100%;
+}
+.mainBg{
+    background-color:#212531;
+    background: linear-gradient(to right bottom, #2f3441 50%, #212531 50%);
+    height: 100%;  
+  
+}
+
+.inputField{
+margin: 10px;
+padding: 10px;
+opacity: 0.8;
+border: none;
+border-radius: 20px;
+font-size: 15px;
+width: 237px !important;
+}
+.paddingLeft{
+    padding-left: 48px;
+    /* width: 169px !important; */
+}
+.formContainer{
+    /* background-color: #fff;
+    border-color: #1e2934; */
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    /* padding: 10px 20px; */
+    /* box-shadow: 1px 1px 2px 1px #f1f1f1; */
+}
+.btn{
+    width: 237px;
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+    box-shadow: none;
+    font-size: 16px;
+    font-weight: 600;
+    margin: 10px;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+}
+
+.icon{
+    position: absolute;
+    top: 11px;
+    left: 7px;
+    transform: translate(-4px, -4px);
+    z-index: 10;
+    background-color: #fff;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    
+}
+.icon-user{
+    z-index: 1000;
+    position: absolute;
+    top: 14px;
+    left: 15.9px;
+    font-size: 23px;
+}
+.icon1{
+    position: absolute;
+    right: 0px;
+    top: 11px;
+    transform: translate(-4px, -4px);
+    z-index: 10;
+    background-color: #fff;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;   
+}
+.register{
+    color: #fff;
+    text-align: center;
+}
+.register a{
+    text-decoration: none;
+    color: #7FB3D5 z;
+}

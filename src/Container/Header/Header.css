@@ -1,0 +1,32 @@
+.header {
+    background-color: #3E007C;
+    padding: 0 15px 45px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.top-header-section {
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+.logo a{
+    color: #007bff;
+    text-decoration: none;
+    background-color: transparent;
+}
+.logo a img {
+    width: 170px;
+}
+.rounded-circle {
+    border-radius: 50%!important;
+}
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+.user-avatar{
+    text-align: end;
+}
+.user-avatar img {
+    margin-bottom: 3px;
+    width: 55px;
+}

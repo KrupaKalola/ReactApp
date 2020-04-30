@@ -1,0 +1,134 @@
+[{
+   "id":1,
+   "name":"Krupa Kalola",
+   "initial":"KK",
+   "jobTitle":"Intern",  
+   "location":"Ahmedabad",
+   "email":"krupa@nividata.com",
+   "reportingTo":"Hitesh Bheda",
+   "dateOfJoin":"2020-02-18",
+   "address":{
+      "addressLine1":"B 401, Aaryan city,",
+      "addressLine2":"Vandemataram road, Gota",
+      "countryCode":"IN",
+      "city":"Ahmedabad",
+      "state":"Gujarat",
+      "zip":"382481"
+   },
+   "url":"./user-avatar.jpg",
+   "dateOfBirth":"1993-03-25"
+},
+{
+   "id":2,
+   "name":"Pooja Dwivedi",
+   "initial":"PD",
+   "jobTitle":"Python Developer",  
+   "location":"Kutch",
+   "email":"pooja@nividata.com",
+   "reportingTo":"Hitesh Bheda",
+   "dateOfJoin":"2019-10-01",
+   "address":{
+      "addressLine1":"B 401, Aaryan city,",
+      "addressLine2":"Vandemataram road, Gota",
+      "countryCode":"IN",
+      "city":"Ahmedabad",
+      "state":"Gujarat",
+      "zip":"382481"
+   },
+   "dateOfBirth":"1997-04-21"
+},
+{
+   "id":3,
+   "name":"Kunal Aliani",
+   "initial":"KA",
+   "jobTitle":"UX/UI Designer",  
+   "location":"Ahmedabad",
+   "email":"kunal@gmail.com",
+   "reportingTo":"Hitesh Bheda",
+   "dateOfJoin":"2016-03-01",
+   "address":{
+      "addressLine1":"B 401, Aaryan city,",
+      "addressLine2":"Vandemataram road, Gota",
+      "countryCode":"IN",
+      "city":"Ahmedabad",
+      "state":"Gujarat",
+      "zip":"382481"
+   },
+   "dateOfBirth":"1993-03-15"
+},
+{
+   "id":4,
+   "name":"Jay Savsani",
+   "initial":"JS",
+   "jobTitle":"IOS Developer",  
+   "location":"Ahmedabad",
+   "email":"jay@gmail.com",
+   "reportingTo":"Hitesh Bheda",
+   "dateOfJoin":"2015-10-10",
+   "address":{
+      "addressLine1":"B 401, Aaryan city,",
+      "addressLine2":"Vandemataram road, Gota",
+      "countryCode":"IN",
+      "city":"Ahmedabad",
+      "state":"Gujarat",
+      "zip":"382481"
+   },
+   "dateOfBirth":"1994-05-02"
+},
+{
+   "id":5,
+   "name":"Pravin Dabhi",
+   "initial":"PD",
+   "jobTitle":"Intern",  
+   "location":"Ahmedabad",
+   "email":"pravin@gmail.com",
+   "reportingTo":"Hitesh Bheda",
+   "dateOfJoin":"2020-01-01",
+   "address":{
+      "addressLine1":"B 401, Aaryan city,",
+      "addressLine2":"Vandemataram road, Gota",
+      "countryCode":"IN",
+      "city":"Ahmedabad",
+      "state":"Gujarat",
+      "zip":"382481"
+   },
+   "dateOfBirth":"1997-08-09"
+},
+{
+   "id":6,
+   "name":"Gunjan Modi",
+   "initial":"GM",
+   "jobTitle":"Project Manager",  
+   "location":"Ahmedabad",
+   "email":"gunjan@gmail.com",
+   "reportingTo":"Hitesh Bheda",
+   "dateOfJoin":"2015-10-01",
+   "address":{
+      "addressLine1":"B 401, Aaryan city,",
+      "addressLine2":"Vandemataram road, Gota",
+      "countryCode":"IN",
+      "city":"Ahmedabad",
+      "state":"Gujarat",
+      "zip":"382481"
+   },
+   "dateOfBirth":"1993-03-25"
+},
+{
+   "id":7,
+   "name":"Hitesh Bheda",
+   "initial":"HB",
+   "jobTitle":"CEO",  
+   "location":"Ahmedabad",
+   "email":"hitesh@gmail.com",
+   "reportingTo":"Hitesh Bheda",
+   "dateOfJoin":"2015-10-01",
+   "address":{
+      "addressLine1":"B 401, Aaryan city,",
+      "addressLine2":"Vandemataram road, Gota",
+      "countryCode":"IN",
+      "city":"Ahmedabad",
+      "state":"Gujarat",
+      "zip":"382481"
+   },
+   "dateOfBirth":"1985-07-22"
+}]
