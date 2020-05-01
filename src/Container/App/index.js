@@ -26,18 +26,16 @@ import Nav from '../Navbar'
 // }
 
 function App() {
-    const [loggedIn, setLoggedIn] = useState('false');
+    const [loggedIn, setLoggedIn] = useState(localStorage.getItem('loggedIn'));
     const clickLogin = () => {
-        setLoggedIn('true')
-        debugger
         localStorage.setItem('loggedIn', 'true')
+        setLoggedIn('true')
     }
     const clickLogout = () => {
-        setLoggedIn('false')
         localStorage.setItem('loggedIn', 'false')
+        setLoggedIn('false')
 
     }
-    
     if (loggedIn =='true') {
         return <Nav submitForm={clickLogout} />
     }

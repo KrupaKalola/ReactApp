@@ -6,7 +6,6 @@ import {
     CardBody,
     Card,
     CardText,
-    Button
 } from 'reactstrap';
 import {
     BrowserRouter as Router,
