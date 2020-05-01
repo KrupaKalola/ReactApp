@@ -88,3 +88,7 @@ width: 237px !important;
     text-decoration: none;
     color: #7FB3D5 z;
 }
+.inputContainer p{
+    color:#fff;
+    margin-top: 3px;
+}

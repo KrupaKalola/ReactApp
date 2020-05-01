@@ -127,7 +127,7 @@ function User(props) {
         <div className="formContainer">
             <form onSubmit={handleSubmit(onSubmit)}>
                 <h3 style={center}>Sign In</h3>
-                <div style={pos}>
+                <div className='inputContainer' style={pos}>
                     <span className="icon">
                         <FontAwesomeIcon icon={faUser} className="icon-user" />
                     </span>
@@ -136,11 +136,11 @@ function User(props) {
 
                 </div>
                 <br />
-                <div style={pos}>
-                    <span className="icon1">
+                <div className='inputContainer' style={pos}>
+                    <span className="icon">
                         <FontAwesomeIcon icon={pwdIcon} className="icon-user" onClick={toggleVisibility} />
                     </span>
-                    <input className="inputField" type={pwdType} name='password' placeholder="Password" ref={register({ required: true , minLength: 6})}></input>
+                    <input className="inputField paddingLeft" type={pwdType} name='password' placeholder="Password" ref={register({ required: true , minLength: 6})}></input>
                     {errors.password && errors.password.type=== 'minLength' && <p>Password length must be atleast 6 characters</p>}
 
                 </div>
